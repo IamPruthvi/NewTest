@@ -4,6 +4,6 @@ void main()
 {
   clrscr();
   cout<<"Hello world"<<endl;
-  cout<<"love programming";
+  cout<<"love programming.";
   getch();
 }
